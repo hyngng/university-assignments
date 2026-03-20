@@ -10,6 +10,7 @@
     - seen data와 unseen data. 레이더 밖 영역의 데이터에 대한 예측을 위해 '모델의 일반화'를 잘 하기 위함에 핵심이 있음.
     - 파라미터를 늘리고, 훈련 데이터를 늘리고, 이런 것은 모두 마찬가지.
     - 보통 train : test = 8 : 2 정도로 나눈다고 함.
+- 평가방법은, 회귀는 mse, 분류는 정확도<sup>accuracy</sup>임.
 
 # classification
 
