@@ -1,4 +1,4 @@
-# 인공지능개론
+## 인공지능개론
 
 - 2026년 수업자료, 과제물 저장소입니다.
 - 과제물은 [main](https://github.com/hyngng/university-assignments/tree/intro-to-ai/main/) 폴더에 정리해두었습니다.
