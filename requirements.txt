@@ -1,6 +1,8 @@
 scikit-learn
+torchsummary
 matplotlib
 tensorflow
 ipykernel
 pandas
+torch
 numpy
