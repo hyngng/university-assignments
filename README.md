@@ -1,5 +1,7 @@
 # Agent Orchestration Visualizer
 
+<img width="1097" height="944" alt="툴바12" src="https://github.com/user-attachments/assets/89e31ae4-681e-4015-8138-22cfe5e6dd0a" />
+
 GitHub Copilot, Antigravity, Codex를 오가며 만든 로컬 시뮬레이터. 단순 구현보다 오케스트레이션 구조, 상태 전이, 문서 동기화, 에이전트가 다시 읽을 수 있는 사양 분리에 초점을 둔 프로젝트.
 
 - 입력 프롬프트를 실제 LLM/API 호출 없이 가짜 시나리오 이벤트로 변환.
