@@ -1,0 +1,20 @@
+window:
+  title: "에이전트 동작 시각화 프로그램"
+  width: 900
+  height: 750
+  min_width: 800
+  min_height: 700
+  background: "#181818"
+  panel_background: "#2B2B2B"
+  separator_color: "#3A3A3A"
+
+runtime:
+  pump_interval_ms: 100
+
+orchestration:
+  enabled: true
+  root_tool_id: "orchestrator"
+  root_label: "사용자 의도를 분석하고 서브 에이전트에게 작업을 위임합니다."
+  branch_agents:
+    search: "search_agent"
+    memory: "memory_agent"
